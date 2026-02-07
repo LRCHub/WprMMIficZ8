@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "XTC",
+  "base_artist": "中島健人",
+  "createdAt": "2026-02-07T15:32:09.129012Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "XTC",
+      "artist": "Liz",
+      "has_synced": false,
+      "path": "select/01_XTC_Liz.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Homecoming (Guns N' Bombs XTC 1996 remix)",
+      "artist": "The Teenagers",
+      "has_synced": false,
+      "path": "select/02_Homecoming_(Guns_N'_Bombs_XTC_1996_remix)_The_Teenagers.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Homecoming (Guns N'Bombs XTC 1996 remix)",
+      "artist": "The Teenagers",
+      "has_synced": false,
+      "path": "select/03_Homecoming_(Guns_N'Bombs_XTC_1996_remix)_The_Teenagers.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "XTC",
+      "artist": "DJ Koze",
+      "has_synced": true,
+      "path": "select/04_XTC_DJ_Koze.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Generation Xtc",
+      "artist": "East 17",
+      "has_synced": false,
+      "path": "select/05_Generation_Xtc_East_17.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Xtc Acid",
+      "artist": "SOPHIE",
+      "has_synced": false,
+      "path": "select/06_Xtc_Acid_SOPHIE.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Trippin' On XTC",
+      "artist": "Green Jelly",
+      "has_synced": true,
+      "path": "select/07_Trippin'_On_XTC_Green_Jelly.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "0664 - XTC - Dear God",
+      "artist": "XTC",
+      "has_synced": true,
+      "path": "select/08_0664_-_XTC_-_Dear_God_XTC.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "XTC vs. Adam Ant",
+      "artist": "They Might Be Giants",
+      "has_synced": true,
+      "path": "select/09_XTC_vs._Adam_Ant_They_Might_Be_Giants.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "XTC \u0000 Senses Working Overtime",
+      "artist": "Various",
+      "has_synced": false,
+      "path": "select/10_XTC_\u0000_Senses_Working_Overtime_Various.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "3233 + Colour My XTC",
+      "artist": "Talisman",
+      "has_synced": true,
+      "path": "select/11_3233_+_Colour_My_XTC_Talisman.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Colour My XTC",
+      "artist": "Talisman",
+      "has_synced": true,
+      "path": "select/12_Colour_My_XTC_Talisman.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "XTC Overdrive",
+      "artist": "Crashdïet",
+      "has_synced": false,
+      "path": "select/13_XTC_Overdrive_Crashdïet.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "XTC",
+      "artist": "中島健人",
+      "has_synced": false,
+      "path": "select/pl_01_XTC_中島健人.txt"
+    }
+  ]
+}
