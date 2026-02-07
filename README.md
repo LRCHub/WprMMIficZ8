@@ -1,0 +1,49 @@
+# 中島健人 – XTC
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Flash 狙ったmy body Bad? 謎めいてたreal
+Just whisper to my heart 隠れた君とchase＆turn
+Danger.この胸騒ぎ
+Stranger.. 綻ぶ瞳
+Changer...革命の時
+咲いた薔薇 抱きしめて
+I'm the ONE Take you into XTC
+I'm the ONE Show you my XTC
+I WANT YOU
+No No No 宿命を燃やしてゆく
+I LOVE YOU
+No No No 好きさ死ぬほど
+I WANNA DANCE
+孤独だった夜に 君だけ求めて
+誰にも言えない 仮面にKISSをして
+WAKE UP! DESIRE 俺と
+LIGHT UP! YOUR FIRE 愛を
+迷い込んだ幻想 時を止めたHeaven
+BREAK UP! THE NIGHT 果たすよ
+RAISE UP! YOUR SOUL 愛をずっと
+魅せてあげるから 感じてXTC
+I knew this was a dream
+but I'm making it real, It's My XTC
+This is the dream meant for U
+Xtreme - True - Core
+もがき悩み 痛み抱き
+Give me freedom! I'll turn this pain into a
+Brand New World
+Baby love tonight 君がいま欲してる
+Baby shake tonight 君をもっと求めてく
+I WANT YOU
+No No No 宿命を燃やしてゆく
+I LOVE YOU
+No No No 好きさ死ぬほど
+I WANNA DANCE
+孤独だった夜に 君だけ求めて
+誰にも言えない 仮面にKISSをして
+WAKE UP! DESIRE 俺と
+LIGHT UP! YOUR FIRE 愛を
+迷い込んだ幻想 時を止めたHeaven
+BREAK UP! THE NIGHT 果たすよ
+RAISE UP! YOUR SOUL 愛をずっと
+魅せてあげるから 感じてXTC
+```
